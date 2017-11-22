@@ -66,10 +66,10 @@
 
 
 ## Russian Rap / Hip-Hop
-* 25-17
-* Ассаи
-* Баста
-* Бонч Бру Бонч
+* ~~25-17~~
+* ~~Ассаи~~
+* ~~Баста~~
+* ~~Бонч Бру Бонч~~
 * ВУльгарный тоНН
 * ВУТОНН
 * Герои Комиксов
@@ -86,16 +86,16 @@
 * Идефикс
 * Інквізиція
 * Кажэ Обойма
-* Карандаш
-* Каста
+* ~~Карандаш~~
+* ~~Каста~~
 * Кравц
 * Лигалайз
 * Луперкаль
 * Маклай (Манифестъ)
-* Макс Корж
+* ~~Макс Корж~~
 * МАТЕР!Я
 * Младший Сын Неба
-* Многоточие
+* ~~Многоточие~~
 * Мэйти
 * Нигатив (Триада)
 * Ноггано
@@ -105,14 +105,14 @@
 * Саграда
 * Сангу Дэ Сао
 * Санчес (ex-Многоточие)
-* Смоки Мо
+* ~~Смоки Мо~~
 * Соль Земли
 * Стольный Град
 * Третий Путь
-* Триада
+* ~~Триада~~
 * Чаян Фамали
 * Черная Экономика
-* Южные Головорезы (Ю.Г.)
+* ~~Южные Головорезы (Ю.Г.)~~
 * Ярмак
 * Bess
 * D-Man 55
@@ -121,7 +121,7 @@
 * Fike & Jambazi
 * ILWT
 * Jambazi
-* Krec
+* ~~Krec~~
 * Ksandra
 * L'One
 * Loc Dog
@@ -130,10 +130,10 @@
 * Master Spensor
 * MC 1.8 (ex-Многоточие)
 * Nekby
-* Noize MC
+* ~~Noize MC~~
 * NTL
-* Oxxxymiron
-* ST
+* ~~Oxxxymiron~~
+* ~~ST~~
 * TriaGrutriKa
 * Trilogy Soldiers
 * V-Style
@@ -227,9 +227,9 @@
 * Dead Sara
 * Delta Rae
 * Digital Daggers
-* Evanescence
+* ~~Evanescence~~
 * Eyes Set to Kill
-* Guano Apes
+* ~~Guano Apes~~
 * Halsey
 * He Is We
 * Icon Fore Hire
@@ -238,33 +238,33 @@
 * Lacuna Coil
 * Lorde
 * Meg Myers
-* Metric
+* ~~Metric~~
 * Mother Mother
 * Nemesea
 * Nico Vega
 * Oh, Be Clever
-* Paramore
+* ~~Paramore~~
 * Patti Smith
-* P!nk (Pink)
+* ~~P!nk (Pink)~~
 * PVRIS
 * The Letter Black
 * The Pretty Reckless
-* The Sounds
+* ~~The Sounds~~
 * The Veronicas
 * We Are The In Crowd
 * Willa
-* Within Temptation
-* Yeah Yeah Yeahs
+* ~~Within Temptation~~
+* ~~Yeah Yeah Yeahs~~
 
 ## Indie Rock + Britpop + Pop-Rock
 * Arcade Fire
-* Arctic Monkeys
+* ~~Arctic Monkeys~~
 * Beady Eye
-* Beck
+* ~~Beck~~
 * Bloc Party
 * Blur
 * Cage The Elephant
-* Coldplay
+* ~~Coldplay~~
 * Death Cab for Cutie
 * Foals
 * Franz Ferdinand
@@ -274,22 +274,22 @@
 * Keane
 * Kings of Leon
 * MGMT
-* Muse
+* ~~Muse~~
 * Oasis
-* Placebo
-* Radiohead
-* Stereophonics
+* ~~Placebo~~
+* ~~Radiohead~~
+* ~~Stereophonics~~
 * The Killers
 * The Kooks
 * The Strokes
 * The Subways
 * The Verve
-* The White Stripes
-* Travis
+* ~~The White Stripes~~
+* ~~Travis~~
 
 ## Instrumental (Neoclassical, Conteporary Classic, Violin, Piano, Cello)
 * 2cellos
-* Apocalyptica
+* ~~Apocalyptica~~
 * Bond
 * Bruno Sanfilippo
 * David Garrett
@@ -299,7 +299,7 @@
 * Ludovico Einaudi
 * Steven Sharp Nelson
 * The Piano Guys
-* Vanessa Mae
+* ~~Vanessa Mae~~
 * Vitamin String Quartet
 
 ## Electro-Hip-Pop, Indie Hip-Hop
@@ -317,7 +317,7 @@
 
 ## Southern Rock & Metal
 * Maylene and the Sons of Disaster
-* He Is Legend
+* ~~He Is Legend~~
 
 ## Drum'n'bass, Dubstep
 * Camo & Krooked
@@ -336,7 +336,7 @@
 ## Chanson (French Pop)
 * Belle du Berry & David Lewis
 * L.E.J
-* Zaz
+* ~~Zaz~~
 
 ## Post-Hardcore / Emocore
 * A Static Lullaby
@@ -361,7 +361,7 @@
 
 ## Electronicore (Nintendocore, Trancecore)
 * Asking Alexandria
-* Attack Attack!
+* ~~Attack Attack!~~
 * Crown The Empire
 * Enter Shikari
 * I See Stars
@@ -373,17 +373,17 @@
 
 ## Punk / Punk-Rock
 * Green Day
-* The Offspring
-* Blink-182
-* Sum 41
+* ~~The Offspring~~
+* ~~Blink-182~~
+* ~~Sum 41~~
 * Rise Against
-* My Chemical Romance
+* ~~My Chemical Romance~~
 * NOFX
 * Good Charlotte
-* AFI
+* ~~AFI~~
 * Simple Plan
 * Dropkick Murphys
-* Fall Out Boy
+* ~~Fall Out Boy~~
 * New Found Glory
 
 ## Rap-Rock / Rapcore / Rap-Metal
@@ -397,10 +397,10 @@
 * Hollywood Undead
 * Insolence
 * Limp Bizkit
-* Linkin Park
+* ~~Linkin Park~~
 * Manafest
 * P.O.D.
-* Papa Roach
+* ~~Papa Roach~~
 * Pleymo
 * Rage Against the Machine
 * Reveille
@@ -439,13 +439,13 @@
 ## Russian Rock (Punk, Alternative)
 * -t De Sangre
 * ~~.Моесердцесправа.~~
-* ##### (5 diez)
+* 5 diez `#####`
 * 1.5Кг
 * 200 По Встречной
 * 30 Дней Февраля
 * 3000 Миль До Рая
 * 4 апреля
-* 6000000000себя
+* ~~6000000000себя~~
 * 7000$
 * 7Б
 * 7раса (7 раса, Седьмая Раса)
@@ -458,40 +458,40 @@
 * ~~Браво~~
 * Бритва Оккама
 * Джан Ку
-* Земфира
+* ~~Земфира~~
 * Зимавсегда
 * ~~Кирпичи~~
 * Комната
-* Крокодил Ганди
+* ~~Крокодил Ганди~~
 * Курара
 * Линия
 * Маминтриллер
 * Мои Любимые Игры
 * Мои Ракеты Вверх
-* Найк Борзов
+* ~~Найк Борзов~~
 * Небо Здесь
 * Нервы
-* Океан Моей Надежды
+* ~~Океан Моей Надежды~~
 * Оригами (Origami)
 * П.т.в.п.
 * Плакса
 * Пойманные Муравьеды
 * Послезавтра
-* Провода
+* ~~Провода~~
 * Психея
 * Слёзы
 * ~~Слот~~
 * ~~Смысловые Галлюцинации~~
 * ~~Танцы Минус~~
 * Токио (Tokio)
-* Тонкаякраснаянить
+* ~~Тонкаякраснаянить~~
 * Торба-на-Круче
 * Фруктовый Кефир
 * ~~Чебоза~~
 * ~~Элизиум~~
 * AKADO
 * ~~Amatory~~
-* Animal Джаz
+* ~~Animal Джаz~~
 * Atakama
 * Choo-joy!
 * DeaDKeDы
@@ -507,13 +507,13 @@
 * I.F.K.
 * Ideя Fix
 * ITAKDALEE
-* Jane Air
+* ~~Jane Air~~
 * Kambodge
-* Kenaya
+* ~~Kenaya~~
 * Korea
 * LaScala
-* Louna
-* Lumen
+* ~~Louna~~
+* ~~Lumen~~
 * Lunatic Scale
 * Maio
 * Matagona
@@ -534,5 +534,5 @@
 * Tequilajazzz
 * Those Days
 * Top-Display!
-* Tracktor Bowling
+* ~~Tracktor Bowling~~
 * Wasabi
