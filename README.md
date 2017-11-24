@@ -389,8 +389,8 @@
 ## Rap-Rock / Rapcore / Rap-Metal
 * (hed) Planet Earth
 * A Broken Silence
-* Crazytown
-* Dangerkids
+* ~~Crazy town~~
+* ~~Dangerkids~~
 * Dead Celebrity Status
 * Deuce
 * Down with Webster
@@ -485,7 +485,7 @@
 * ~~Танцы Минус~~
 * Токио (Tokio)
 * ~~Тонкаякраснаянить~~
-* Торба-на-Круче
+* ~~Торба-на-Круче~~
 * Фруктовый Кефир
 * ~~Чебоза~~
 * ~~Элизиум~~
