@@ -233,7 +233,7 @@
 * Halsey
 * He Is We
 * Icon Fore Hire
-* In This Moment
+* ~~In This Moment~~
 * Jem
 * Lacuna Coil
 * Lorde
@@ -275,7 +275,7 @@
 * Kings of Leon
 * MGMT
 * ~~Muse~~
-* Oasis
+* ~~Oasis~~
 * ~~Placebo~~
 * ~~Radiohead~~
 * ~~Stereophonics~~
