@@ -226,7 +226,7 @@ YUI
 * Rye Rye
 
 ## Girls Rock (Female Vox + Alternative Rock & Metal / Indie Rock / Indietronic / Pop-Rock)
-* Against The Current
+* ~~Against The Current~~
 * Ashlee Simpson
 * Avril Lavigne
 * Bea Miller
@@ -245,7 +245,7 @@ YUI
 * ~~In This Moment~~
 * Jem
 * Lacuna Coil
-* Lorde
+* ~~Lorde~~
 * Meg Myers
 * ~~Metric~~
 * Mother Mother
