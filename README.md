@@ -381,7 +381,7 @@ YUI
 * From Autumn To Ashes
 
 ## Punk / Punk-Rock
-* Green Day
+* ~~Green Day~~
 * ~~The Offspring~~
 * ~~Blink-182~~
 * ~~Sum 41~~
