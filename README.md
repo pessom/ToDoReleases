@@ -64,6 +64,15 @@
 ## Progressive Metal
 ...
 
+## J-Music (J-Rock, J-Pop, Soundtrack)
+Yoko Kanno (Gabriela Robin)
+Hiroyuki Sawano
+Joe Hisaishi on Spotify
+Origa
+Itou Kanako
+NICO Touches the Walls
+SID
+YUI
 
 ## Russian Rap / Hip-Hop
 * ~~25-17~~
