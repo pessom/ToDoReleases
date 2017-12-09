@@ -65,14 +65,14 @@
 ...
 
 ## J-Music (J-Rock, J-Pop, Soundtrack)
-Yoko Kanno (Gabriela Robin)
-Hiroyuki Sawano
-Joe Hisaishi on Spotify
-Origa
-Itou Kanako
-NICO Touches the Walls
-SID
-YUI
+* Yoko Kanno (Gabriela Robin)
+* Hiroyuki Sawano
+* Joe Hisaishi on Spotify
+* Origa
+* Itou Kanako
+* NICO Touches the Walls
+* SID
+* YUI
 
 ## Russian Rap / Hip-Hop
 * ~~25-17~~
@@ -228,9 +228,9 @@ YUI
 ## Girls Rock (Female Vox + Alternative Rock & Metal / Indie Rock / Indietronic / Pop-Rock)
 * ~~Against The Current~~
 * Ashlee Simpson
-* Avril Lavigne
+* ~~Avril Lavigne~~
 * Bea Miller
-* Broods
+* ~~Broods~~
 * CHVRCHES
 * Crystalyne
 * Dead Sara
@@ -240,7 +240,7 @@ YUI
 * Eyes Set to Kill
 * ~~Guano Apes~~
 * Halsey
-* He Is We
+* ~~He Is We~~
 * Icon Fore Hire
 * ~~In This Moment~~
 * Jem
