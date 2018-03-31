@@ -95,7 +95,7 @@
 * Идефикс
 * Інквізиція
 * Кажэ Обойма
-* Капа
+* ~~Капа~~
 * ~~Карандаш~~
 * ~~Каста~~
 * Кравц
@@ -231,19 +231,19 @@
 
 ## Girls Rock (Female Vox + Alternative Rock & Metal / Indie Rock / Indietronic / Pop-Rock)
 * ~~Against The Current~~
-* Ashlee Simpson
+* ~~Ashlee Simpson~~
 * ~~Avril Lavigne~~
 * Bea Miller
 * ~~Broods~~
-* CHVRCHES
+* ~~CHVRCHES~~
 * Crystalyne
 * Dead Sara
 * Delta Rae
 * Digital Daggers
 * ~~Evanescence~~
-* Eyes Set to Kill
+* ~~Eyes Set to Kill~~
 * ~~Guano Apes~~
-* Halsey
+* ~~Halsey~~
 * ~~He Is We~~
 * Icon Fore Hire
 * ~~In This Moment~~
@@ -253,7 +253,7 @@
 * Meg Myers
 * ~~Metric~~
 * Mother Mother
-* Nemesea
+* ~~Nemesea~~
 * Nico Vega
 * Oh, Be Clever
 * ~~Paramore~~
@@ -292,7 +292,7 @@
 * ~~Placebo~~
 * ~~Radiohead~~
 * ~~Stereophonics~~
-* The Killers
+* ~~The Killers~~
 * The Kooks
 * The Strokes
 * The Subways
