@@ -95,6 +95,7 @@
 * Идефикс
 * Інквізиція
 * Кажэ Обойма
+* Капа
 * ~~Карандаш~~
 * ~~Каста~~
 * Кравц
@@ -124,6 +125,7 @@
 * ~~Южные Головорезы (Ю.Г.)~~
 * Ярмак
 * Bess
+* CENTR
 * D-Man 55
 * DotsBand (ex-Многоточие)
 * Dotsfam (ex-Многоточие)
@@ -150,6 +152,7 @@
 
 ## Rap / Hip-Hop
 * 2 Chainz
+* ~~2pac~~
 * 50 Cent
 * A$AP Mob
 * A$AP Rocky
@@ -164,6 +167,7 @@
 * Childish Gambino
 * Clams Casino
 * Common
+* D12
 * Domtree
 * Drake
 * Eminem
