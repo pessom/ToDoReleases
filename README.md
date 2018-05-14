@@ -65,6 +65,7 @@
 ...
 
 ## J-Music (J-Rock, J-Pop, Soundtrack)
+* 666
 * Yoko Kanno (Gabriela Robin)
 * Hiroyuki Sawano
 * Joe Hisaishi on Spotify
@@ -76,6 +77,8 @@
 
 ## Russian Rap / Hip-Hop
 * ~~25-17~~
+* 5-niza
+* Al Solo
 * ~~Ассаи~~
 * ~~Баста~~
 * ~~Бонч Бру Бонч~~
@@ -92,6 +95,7 @@
 * Дино (Триада)
 * Дымовая Завеса
 * Забытый Полк (За Полк)
+* Злой дух
 * Идефикс
 * Інквізиція
 * Кажэ Обойма
@@ -156,6 +160,7 @@
 * 50 Cent
 * A$AP Mob
 * A$AP Rocky
+* Akon
 * Astronautalis
 * B.o.B
 * Bad Meets Evil
@@ -609,3 +614,22 @@
 * Хрустальный шар
 * Цветы
 * Центр
+
+## unknown
+* Bad Balance
+* mattafix
+* Tokio Hotel
+* Ария
+* Бандерос
+* Бьянка
+* Дыши
+* Мастер Шеff
+* Ненси
+* Ногу свело
+* Пропаганда
+* Ранетки
+* Рефлекс
+* Русский размер
+
+
+
